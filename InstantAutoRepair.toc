@@ -4,4 +4,4 @@
 ## Author: WowAddonSchool
 ## Version: 1.0
 
-AutoRepair.lua
+InstantAutoRepair.lua

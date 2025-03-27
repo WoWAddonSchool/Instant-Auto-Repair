@@ -1,0 +1,7 @@
+## Interface: 110000
+## Title: Instant Auto Repair
+## Notes: Ultra-lightweight auto-repair addon. Zero config, instant repair.
+## Author: WowAddonSchool
+## Version: 1.0
+
+AutoRepair.lua
